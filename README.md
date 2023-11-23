@@ -16,7 +16,7 @@ Bypasses Cloudflares and Custom JS challenges and Geoblocked targets
 Link: https://stresser.su/ 
 1. Use VPN to connect properly or TOR
 2. make an account
-3. put your target ip abd ddos
+3. put your target ip and ddos
 4. yea
    
 --------------------------------------------------------------------------------------------------------
